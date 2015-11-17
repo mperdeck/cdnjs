@@ -31,5 +31,6 @@
       "jsnlog.js.map",
       "jsnlog.js"
     ]
-  }
+  },
+  "filename": "jsnlog.min.js"
 }
